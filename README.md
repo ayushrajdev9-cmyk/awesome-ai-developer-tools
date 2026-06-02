@@ -70,7 +70,7 @@
 
 | Tool | Description | Stars |
 |------|-------------|-------|
-| **[Natural Shell](https://github.com/ayushrajdev9-cmyk/natural-shell)** | 🐚 **Talk to your terminal in English — AI-powered natural language to shell commands** | ⭐ |
+| **[Natural Shell](https://github.com/ayushrajdev9-cmyk/natural-shell)** | 🐚 **Talk to your terminal in English — AI-powered natural language to shell commands** | ⭐ ⭐⭐⭐⭐  |
 | [Warp](https://www.warp.dev) | Intelligent terminal with AI command search | ⭐⭐⭐⭐ |
 | [Fig](https://fig.io) | Interactive command-line autocomplete | ⭐⭐⭐⭐ |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) | ChatGPT for shell commands | ⭐⭐⭐⭐ |
