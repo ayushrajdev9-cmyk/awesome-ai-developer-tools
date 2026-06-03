@@ -144,6 +144,7 @@
 | [Galileo AI](https://www.usegalileo.ai) | AI-powered UI design tool | ⭐⭐⭐⭐ |
 | [Uizard](https://uizard.io) | AI design tool for wireframes and prototypes | ⭐⭐⭐ |
 | [Copilot 2.0](https://github.com/features/copilot) | AI-powered UI component generation | ⭐⭐⭐⭐ |
+| [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based design utilities: favicon generator, OG image generator, color palette generator, AI background remover (runs locally) | ⭐⭐⭐⭐ |
 
 ## 📄 Document Processing (RAG)
 
