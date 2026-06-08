@@ -175,6 +175,7 @@
 | [Phoenix](https://github.com/Arize-ai/phoenix) | AI observability and evaluation | ⭐⭐⭐⭐ |
 | [Helicone](https://github.com/Helicone/helicone) | LLM observability platform | ⭐⭐⭐ |
 | [Log10](https://log10.io) | LLM data management and analytics | ⭐⭐⭐ |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for Solana AI agent wallets. Verify agent identity before x402 USDC micropayments via MCP | ⭐⭐⭐ |
 
 ## 📚 Learning & Education
 
