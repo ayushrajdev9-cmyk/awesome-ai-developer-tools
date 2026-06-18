@@ -142,6 +142,7 @@
 | [v0 by Vercel](https://v0.dev) | AI-powered UI generation from prompts | ⭐⭐⭐⭐ |
 | [Screenshot to Code](https://github.com/abi/screenshot-to-code) | Convert screenshots to code with AI | ⭐⭐⭐⭐⭐ |
 | [Galileo AI](https://www.usegalileo.ai) | AI-powered UI design tool | ⭐⭐⭐⭐ |
+| [Roblox GUI Maker](https://robloxguimaker.dev/) | Free AI tool for planning Roblox Studio ScreenGui layouts, game HUDs, menus, and Lua starter code ideas | ⭐⭐⭐⭐ |
 | [Uizard](https://uizard.io) | AI design tool for wireframes and prototypes | ⭐⭐⭐ |
 | [Copilot 2.0](https://github.com/features/copilot) | AI-powered UI component generation | ⭐⭐⭐⭐ |
 | [TinyTools](https://tinytools-smoky.vercel.app/) | Free browser-based design utilities: favicon generator, OG image generator, color palette generator, AI background remover (runs locally) | ⭐⭐⭐⭐ |
