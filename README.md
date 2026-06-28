@@ -89,6 +89,7 @@
 | [Haystack](https://github.com/deepset-ai/haystack) | NLP framework for building search and RAG systems | ⭐⭐⭐⭐ |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM app development platform | ⭐⭐⭐⭐ |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flow builder | ⭐⭐⭐⭐ |
+| [Tokens Forge](https://tokens-forge.com) | Unified AI model API with key management, usage billing, and built-in AI research agents | ⭐⭐⭐ |
 
 ## 🗄️ Database & Vector Search
 
