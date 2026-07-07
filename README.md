@@ -89,6 +89,7 @@
 | [Haystack](https://github.com/deepset-ai/haystack) | NLP framework for building search and RAG systems | ⭐⭐⭐⭐ |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM app development platform | ⭐⭐⭐⭐ |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | Drag-and-drop LLM flow builder | ⭐⭐⭐⭐ |
+| [Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory) | Local-first memory lifecycle framework for AI coding agents with recall, audit, forgetting, and source-linked evidence | ⭐ |
 
 ## 🗄️ Database & Vector Search
 
